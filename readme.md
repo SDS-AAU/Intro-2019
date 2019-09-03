@@ -23,3 +23,6 @@ Why social? On ethics, bias and other things beyond IT
 - [Mini Project Python](https://www.datacamp.com/projects/20)
 - [Mini Project R](https://projects.datacamp.com/projects/309)
 
+### Solution
+- [Python](https://nbviewer.jupyter.org/github/SDS-AAU/Intro-2019/blob/master/Python_project.ipynb)
+- [R](https://nbviewer.jupyter.org/github/SDS-AAU/Intro-2019/blob/master/R_project.ipynb)
